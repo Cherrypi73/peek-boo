@@ -1,0 +1,15 @@
+body{
+    background:#370103;
+  }
+  
+  .navbar {
+      background-color: white; /* Cor de fundo da barra de navegação */
+      overflow: hidden;
+      box-shadow: 2px 2px 2px 2px #171717;
+  }
+  
+  .nav-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
