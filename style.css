@@ -225,10 +225,10 @@ grid-template-columns: auto auto;
 }
 .container-info{
  display: grid;
- grid-template-columns: 1fr 1fr;
+ grid-template-columns: 1fr 2fr;
 }
 .gap-1, .gap-2{
-  background-color: #530103s
+  background-color: #530103
   
  
 }
