@@ -23,7 +23,7 @@ body{
       transform: translate(0, 0);
   }
 }
-.card:hover {
+.card:hover, .element:hover{
   animation: moveCard 1s ease infinite;
 }
 .navbar {
